@@ -1,2 +1,2 @@
-# dist
+# DIST
 FLI - dist app
