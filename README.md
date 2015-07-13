@@ -1,2 +1,0 @@
-# DIST
-FLI - dist app
