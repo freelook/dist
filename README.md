@@ -1,2 +1,2 @@
-# mobile
+# dist
 FLI - dist app
